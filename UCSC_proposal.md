@@ -19,9 +19,12 @@ Describe your plan to report your system's power draw to the committee. In the p
 
 Example: 
 
+250W Total
+
 | Item | Amount | Purpose | Expected Power Draw | Price|
 | -------- | ------- |------- |------- |------- |
-| Raspberry Pi 4B  | 16    | | | |
+| Raspberry Pi 5  | 10 | CPU Compute | 120W (12W) | |
+| Jetson Orin Nano  | 10 | GPU Compute | 40W |  |
 | NETGEAR 24-Port Gigabit Ethernet Unmanaged Switch (JGS524) | 1     | | | |
 
 ## Software
