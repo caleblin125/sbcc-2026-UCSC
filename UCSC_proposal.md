@@ -30,18 +30,25 @@ Example:
 
 ## Software
 
-We will be using ubuntu on all our devices due to it's familiarity and support. On top of that we will use Slurm scheduler to run the benchmarks on our cluster. 
+We will be using Ubuntu on all our devices due to it's familiarity and support. On top of that we will use Slurm scheduler to run the benchmarks on our cluster. 
 
 ## Strategy
 
 ### Benchmarks
 
-Explain your initial strategy for completing the benchmarks. 
+We will begin by collecting as much data as possible, to gain some insight to model performance. Each team member will study the algorithms. Once better understood, we will find the best parameters for each of the benchmarks, and submit. 
 
 ### Applications
 
-Explain your initial strategy for completing the applications. 
+We will start by running the applications on a single node, then expanding to as far as we can. We will monitor network traffic, compute usage, and power usage, making sure each is optimal.
 
 ## Team Details
 
-List your team members and a brief description of interests and skills.
+Caleb - Robotics Engineering & Computer Engineering
+Brock - Electrical Engineering
+Indira - Computer Engineering & Applied Mathematics
+Shiloh - Computer Science Game Design
+Julien - Computer Engineering & Applied Mathematics
+Jason - Computer Engineering
+Holden - Robotics Engineering
+Myles - Computer Science & Scientific Computing and Applied Mathematics
